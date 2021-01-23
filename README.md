@@ -19,7 +19,7 @@ Also you need to allow your gmail account to be used by this API. For that, you 
 
 That's all you need to configure. Then you can call this API using GET request (you can change it to any other menthod from validatePaytm.php file) as below:
 <pre>
-http://example.com/api_directory/paytm.php?apikey=111111&onetime=0&txnid=202101092123480099&amount=1402
+http://example.com/api_directory/phonepe.php?apikey=111111&onetime=0&txnid=202101092123480099&amount=1402
 </pre>
 Here you need to pass 4 parameters, where 3 parameters are mandatory and 1 is optional.
 Thease are:
