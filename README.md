@@ -29,8 +29,10 @@ Thease are:
 4. amount : It is the transaction amount.
 
 On successful verification, you will get the below json response:
-{"type":"success","msg":"Transaction Verified"}
+<br>
+<pre>{"type":"success","msg":"Transaction Verified"}</pre>
+<br>
 If any error occur, you will also get proper error message.
 
-That's all.
+That's all.<br>
 cheers :)
