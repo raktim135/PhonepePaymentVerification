@@ -34,9 +34,9 @@ On successful verification, you will get the below json response:
 <br>
 If any error occur, you will also get proper error message.
 
-<br>
+<br><br>
 To hire me for any assistance(paid assistance only), please ping me at WhatsApp +91 9577777910
 
-<br>
+<br><br>
 That's all.<br>
 cheers :)
